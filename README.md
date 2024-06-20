@@ -36,13 +36,11 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<a href="https://imgur.com/8i03OZ5"><img src="https://i.imgur.com/8i03OZ5.png" title="source: imgur.com" /></a>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/q64x8Xh.png"/></a>
   <a href="https://www.upwork.com/freelancers/dawitt8"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/8i03OZ5.png"/></a>
 </p>
-<a href="https://imgur.com/q64x8Xh"><img src="https://i.imgur.com/q64x8Xh.png" title="source: imgur.com" /></a>
 
 
 
