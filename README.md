@@ -1,6 +1,6 @@
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2279F7&random=false&lines=Flutter+and+react+developer;3+years+app+development+experience;Learning+Node+js)](https://git.io/typing-svg)
+
+<img width="48" height="48" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>
 <!--
 **dawitesfa/dawitesfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
