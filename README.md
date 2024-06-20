@@ -37,7 +37,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/linkedin.png"/></a>
   <a href="https://www.upwork.com/freelancers/dawitt8"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png"/></a>
 </p>
 
