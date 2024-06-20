@@ -36,12 +36,13 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+<a href="https://imgur.com/8i03OZ5"><img src="https://i.imgur.com/8i03OZ5.png" title="source: imgur.com" /></a>
+
 <p align="left">
-<span>LinkedIN </span>
-  <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <span>Upwork </span>
-  <a href="https://www.upwork.com/freelancers/dawitt8"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png"/></a>
+  <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/q64x8Xh.png"/></a>
+  <a href="https://www.upwork.com/freelancers/dawitt8"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/8i03OZ5.png"/></a>
 </p>
+<a href="https://imgur.com/q64x8Xh"><img src="https://i.imgur.com/q64x8Xh.png" title="source: imgur.com" /></a>
 
 
 
