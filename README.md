@@ -39,11 +39,11 @@
 
 - 📫 How to reach me: ↙️↙️↙️
 <ul >
-  <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img height="48px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/3bjELug.png"/></a>
+  <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img height="38px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/3bjELug.png"/></a>
   <span>  </span>
   <span>  </span>
   <span>  </span>
-  <a href="https://www.upwork.com/freelancers/dawitt8"><img height="48px" alt="Upwork" title="Upwork" src="https://imgur.com/oRMjSXZ.png"/></a>
+  <a href="https://www.upwork.com/freelancers/dawitt8"><img height="38px" alt="Upwork" title="Upwork" src="https://imgur.com/oRMjSXZ.png"/></a>
 </ul>
 
 
