@@ -1,15 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
-  <a href="https://github.com/dawitesfa">
-    <img href='' alt='Dawit T.'></a>
-</p>
-<!-- <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Flutter+and+React+Developer;And+learning+Node+js)](https://git.io/typing-svg)
-</p> -->
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=I'm+a+Flutter+and+React+Developer;And+learning+Node+js" /></a>
-    </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2279F7&center=true&random=false&width=435&lines=Flutter+and+react+developer;3+years+app+development+experience;Learning+Node+js)](https://git.io/typing-svg)
 <!--
 **dawitesfa/dawitesfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
