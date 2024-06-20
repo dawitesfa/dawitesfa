@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<div display="flex" style="column-gap:4px;">
+<div display="flex" >
     <ul display="flex">
         <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
         <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
