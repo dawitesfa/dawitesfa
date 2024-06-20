@@ -36,9 +36,9 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<ul display="flex">
-    <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/" style="padding:4px 16px; border:1px solid #ffffff;">LinkedIn</a>
-    <span>       </span>
-    <a href="https://www.upwork.com/freelancers/dawitt8" style="padding:4px 16px; border:1px solid #ffffff;">Upwork</a>
-</ul>
+<p align="center">
+  <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+</p>
+
+
 
