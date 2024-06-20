@@ -36,3 +36,8 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+<ul>
+    <p><a href="">LinkedIn</a></p>
+    <p><a href="">Upwork</a></p>
+</ul>
+
