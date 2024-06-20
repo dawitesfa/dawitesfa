@@ -37,7 +37,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ↙️↙️↙️
 <p align="left">
   <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/3bjELug.png"/></a>
   <span>  </span>
