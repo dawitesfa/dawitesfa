@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2279F7&random=false&lines=Flutter+and+react+developer;3+years+app+development+experience;Learning+Node+js)](https://git.io/typing-svg) -->
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+and+react+developer;3+years+app+development+experience;Learning+Node+js;&center=true&width=500&height=50&font=Fira%20Code" style="max-width:100%;">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+and+react+developer;3+years+app+development+experience;Learning+Node+js;&center=true&width=500&height=50&font=Fira%20Code&color=7332a8" style="max-width:100%;">
     </a>
 </p>
 
