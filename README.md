@@ -1,6 +1,6 @@
 <p align="left">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+and+react+developer;3+years+app+development+experience;Learning+Node+js;&center=false&width=500&height=50&font=Fira%20Code&color=ed3b8e&fontweight=500&fontsize=22" style="max-width:100%;">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+and+react+developer;3+years+app+development+experience;Learning+Node+js;&center=false&width=500&height=50&font=Fira%20Code&color=ed3b8e&fontweight=500&fontsize=26" style="max-width:100%;">
     </a>
 </p>
 
