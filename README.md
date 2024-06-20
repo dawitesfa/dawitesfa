@@ -36,8 +36,8 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-<ul>
-    <p><a href="">LinkedIn</a></p>
-    <p><a href="">Upwork</a></p>
+<ul display="flex">
+    <p><a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/">LinkedIn</a></p>
+    <p><a href="https://www.upwork.com/freelancers/dawitt8">Upwork</a></p>
 </ul>
 
