@@ -1,10 +1,10 @@
-<p align="center">
+<p align="left">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+and+react+developer;3+years+app+development+experience;Learning+Node+js;&center=false&width=500&height=50&font=Fira%20Code&color=ed3b8e&fontweight=500&fontsize=26" style="max-width:100%;">
     </a>
 </p>
 
-<div align="center" width="500px" style="display: flex; justify-content:space-around; max-width: 100%;" >
+<div style="display: flex; justify-content:space-around; max-width: 100%;" >
     <ul display="flex">
         <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/>
         <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
