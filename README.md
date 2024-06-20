@@ -12,6 +12,7 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 </div>
+<br/>
 <!--
 **dawitesfa/dawitesfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-->
 
@@ -21,7 +22,7 @@
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
+- 💬 Ask me about Flutter, Dart, React and Firebase, Riverpod etc...
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
