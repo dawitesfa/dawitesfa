@@ -37,7 +37,7 @@
 <!-- - ⚡ Fun fact: ... -->
 
 <ul display="flex">
-    <p><a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/">LinkedIn</a></p>
-    <p><a href="https://www.upwork.com/freelancers/dawitt8">Upwork</a></p>
+<a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/">LinkedIn</a>
+<a href="https://www.upwork.com/freelancers/dawitt8">Upwork</a>
 </ul>
 
