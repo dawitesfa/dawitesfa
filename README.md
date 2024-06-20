@@ -43,7 +43,7 @@
   <span>  </span>
   <span>  </span>
   <span>  </span>
-  <a href="https://www.upwork.com/freelancers/dawitt8"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/oRMjSXZ.png"/></a>
+  <a href="https://www.upwork.com/freelancers/dawitt8"><img height="32px" alt="Upwork" title="Upwork" src="https://imgur.com/oRMjSXZ.png"/></a>
 </p>
 
 
