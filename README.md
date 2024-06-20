@@ -38,8 +38,8 @@
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/q64x8Xh.png"/></a>
-  <a href="https://www.upwork.com/freelancers/dawitt8"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/8i03OZ5.png"/></a>
+  <a href="https://www.linkedin.com/in/dawit-tesfamariam-ab1450220/"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/3bjELug.png"/></a>
+  <a href="https://www.upwork.com/freelancers/dawitt8"><img height="32px" alt="LinkedIn" title="LinkedIn" src="https://imgur.com/a/C7DDJaN.png"/></a>
 </p>
 
 
