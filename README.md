@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Flutter+and+React+Developer;And+learning+Node+js)](https://git.io/typing-svg)
+
 <!--
 **dawitesfa/dawitesfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
