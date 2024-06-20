@@ -2,12 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/dawitesfa">
-    <h1>Dawit Tesfamariam</h1></a>
+    <img href='' alt='Dawit T.'></a>
 </p>
-
-
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Flutter+and+React+Developer;And+learning+Node+js)](https://git.io/typing-svg)
-
+</p>
 <!--
 **dawitesfa/dawitesfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
